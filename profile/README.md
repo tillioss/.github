@@ -1,4 +1,5 @@
 ![Tilli Cover Photo](https://teqbahn.com/tilli-web/media/logos.ce9f7e7b.png)
+
 Tilli is an open-source Social Emotional Learning platform company focused on social impact.
 ## Participating in Community 
 We are a community of contributors - developers, volunteers, researchers, and the humanitarian sector including employees of Rumsan Associates. We create an environment where our community can effectively explore, create innovative and open aid distribution technology services that are inclusive, accountable, and accessible for everyone. 
