@@ -1,4 +1,4 @@
-**Namaste**, Tilli development team would like to thank you for taking the time to contribute! We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
+Tilli development team would like to thank you for taking the time to contribute! We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
 -   Reporting a bug
 -   Discussing the current state of the code
