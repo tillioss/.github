@@ -1,4 +1,4 @@
-![Tilli Cover Photo](https://teqbahn.com/tilli/logo.png)
+![LogoMain](./images/LogoMain.png "LogoMain")
 
 Tilli is an open-source Social Emotional Learning platform company focused on social impact.
 ## Participating in Community 
