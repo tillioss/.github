@@ -21,4 +21,6 @@ We would love your input! We want to make contributing to this project as easy a
 - Public Website: www.tillikids.com/opensource
 
 ## Get in Touch 
-To learn more about Tilli or find ways to collaborate Email us at support@tillikids.org
+
+Learn more about what we are doing at our official website [tillikids.com/opensource](www.tillikids.com/opensource) <br>For more technical information, visit our documentation website [tillioss.github.io](https://tillioss.github.io/docs/project-charter) or write to any of our team members at support@tillikids.org for any doubts or queries.
+To know more about our [team members](https://www.tillikids.com/team)
