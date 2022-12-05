@@ -6,9 +6,9 @@ We are a community of learning designers, game designers, developers and educato
 
 ## Tilli's Open Source Documentation 
 
-#Learn more about what we are doing at our official website [tillikids.com](https://www.tillikids.com/)
+Learn more about what we are doing at our official website [tillikids.com](https://www.tillikids.com/)
 <br>For more technical information, visit our documentation website [tilli-docs](https://tillioss.github.io/)
 <br>Tilli’s open-source projects are governed by our [Code of conduct](https://tillioss.github.io/docs/code-of-conduct). 
 
 ## Get in Touch 
-Email us at support@tillikids.org
+To learn more about Tilli or find ways to collaborate Email us at support@tillikids.org
