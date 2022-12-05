@@ -12,3 +12,5 @@ Learn more about what we are doing at our official website [tillikids.com](https
 
 ## Get in Touch 
 To learn more about Tilli or find ways to collaborate Email us at support@tillikids.org
+
+https://static.wixstatic.com/media/782f69_bd6b067652c4488980c442154f721392~mv2.png/v1/fill/w_146,h_196,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Illustration1.png
