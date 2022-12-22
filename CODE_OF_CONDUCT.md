@@ -85,7 +85,7 @@ Consequence: A permanent ban from any sort of public interaction within the comm
 
 ## Attribution
 
-This Code of Conduct is adapted from the [tillioss.github.io](https://tillioss.github.io/) version, available at <https://tillioss.github.io/tilli-docs/next/code-of-conduct>
+This Code of Conduct is adapted from the [tillioss.github.io](https://tillioss.github.io/) version, available at <https://tillioss.github.io/docs/code-of-conduct>
 
 Community Impact Guidelines were inspired by [Contributor Covenant code of conduct. ](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 
