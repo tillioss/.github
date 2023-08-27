@@ -1,26 +1,31 @@
-## About Tilli
+## Welcome to Tilli's Open Source Community!
 
-Tilli is a play-based, social-emotional learning tool that brings together the joys of play and the power of behavioural science to help kids (alongside their caregivers and teachers) build foundational, lifelong skills and mindsets to be stay, safe and happy
+Welcome to Tilli, a play-based, social-emotional learning tool designed to empower children, caregivers, and educators in building essential life skills and fostering a sense of safety, well-being, and happiness.
 
-We’re currently working with the UNICEF Innovation Fund to create Tilli's Safety Toolbox. It is a three module, play-based learning experience on Social-Emotional Learning for Child Online Safety. The focus of this project is to help parents and caregivers have meaningful conversations with their children and teachers, educators and social workers deliver powerful learning to their students!
+At Tilli, we're excited to collaborate with the UNICEF Innovation Fund to bring you Tilli's Safety Toolbox. This innovative three-module learning experience focuses on Social-Emotional Learning for Child Online Safety. Our mission is to enable parents, caregivers, teachers, and social workers to engage in meaningful conversations with children and equip educators with effective tools to empower students.
 
-## Joining the Tilli Community 
-We are a community of learning designers, game designers, developers and educators with an interest in designing game-based, social emotional learning experience for kids. We create an environment where our community can effectively explore, create innovative and open aid distribution technology services that are inclusive, accountable, and accessible for everyone.
+## Join the Tilli Community
 
-### Contribution Guidelines
+We are a vibrant community of learning designers, game developers, educators, and innovators who share a common goal: designing engaging game-based, social-emotional learning experiences for children. In our inclusive environment, community members collaboratively explore and create innovative technology solutions that are accessible and beneficial for all.
 
-We would love your input! We want to make contributing to this project as easy and transparent as possible so kindly go through our contribution guidelines here: [Contribution Guidelines](https://tillioss.github.io/docs/Contribution-Guidelines)
+### How to Contribute
+
+Your insights and contributions are invaluable to us. We've made the contribution process straightforward and transparent. Take a moment to review our [Contribution Guidelines](https://tillioss.github.io/docs/Contribution-Guidelines) to get started.
 
 ### Code of Conduct
-<br>Please note that Tilli’s open-source projects are governed by our [Code of conduct](https://tillioss.github.io/docs/code-of-conduct). 
 
-## Tilli's Open Source Documentation 
+To ensure a positive and respectful community, we maintain a [Code of Conduct](https://tillioss.github.io/docs/code-of-conduct) for all participants in Tilli's open-source projects.
 
-- Tilli Documentation: https://tillioss.github.io
-- GitHub Project: https://github.com/tillioss
-- Public Website: www.tillikids.com/opensource
+## Exploring Tilli's Open Source Documentation
 
-## Get in Touch 
+- **Tilli Documentation**: Explore our comprehensive documentation at [Tilli Documentation](https://tillioss.github.io) to delve into the details of our projects.
+- **GitHub Project**: Discover our codebase and contribute to our projects on [GitHub](https://github.com/tillioss).
+- **Public Website**: Visit our public website [www.tillikids.com/opensource](www.tillikids.com/opensource) for a broader overview of our open-source initiatives.
 
-Learn more about what we are doing at our official website [tillikids.com/opensource](www.tillikids.com/opensource) <br>For more technical information, visit our documentation website [tillioss.github.io](https://tillioss.github.io) or write to any of our team members at support@tillikids.org for any doubts or queries.
-To know more about our [team members](https://www.tillikids.com/team)
+## Contact Us
+
+We encourage you to learn more about us on our official website, [tillikids.com/opensource](www.tillikids.com/opensource). For technical information, refer to our documentation website [tillioss.github.io](https://tillioss.github.io). If you have questions or need assistance, feel free to reach out to our dedicated team at support@tillikids.org.
+
+To get acquainted with the individuals behind Tilli, explore our [team members](https://www.tillikids.com/team) page.
+
+Thank you for being a part of the Tilli community, where learning meets play and technology meets empowerment. Your contributions drive our mission to create a safer, happier future for all.
